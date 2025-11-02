@@ -18,7 +18,7 @@ This project allows testing and visualizing how an AC remote interacts with diff
 - [Installation](#installation)  
 - [File Structure](#file-structure)  
 - [Screenshots](#screenshots)  
-- [License](#license)  
+- [License](LICENSE)  
 
 ---
 
