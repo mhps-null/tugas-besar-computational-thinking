@@ -13,7 +13,7 @@ This project allows testing and visualizing how an AC remote interacts with diff
 
 ## 📌 Table of Contents
 
-- [Features](#-features)  
+- [Features](##Features)  
 - [Prerequisites](#-prerequisites)  
 - [Installation](#-installation)  
 - [File Structure](#-file-structure)  
